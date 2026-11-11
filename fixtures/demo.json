@@ -1,0 +1,10 @@
+{
+  "subject_id": "guideline_mirror-synthetic",
+  "request_key": "guideline_mirror-demo",
+  "payload": {
+    "url": "https://local.invalid/guideline",
+    "old_body": "<p>人工复核</p>",
+    "body": "<h1>人工复核与证据链</h1>",
+    "redirects": 1
+  }
+}
